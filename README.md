@@ -6,7 +6,7 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
 
 ## 🛠️ Tech Stack
 
-🔹 **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap  
+🔹 **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS.
 🔹 **Backend (Exploring)**: Node.js, Express.js, MongoDB, PostgreSQL  
 🔹 **Tools**: Git, GitHub, Vercel, Netlify
 
