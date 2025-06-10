@@ -18,8 +18,6 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashis-neupane-1a8050327/)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/aashish.neupane.719) 
-
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Aashis_19)
 
 
