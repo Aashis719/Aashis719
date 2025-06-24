@@ -14,11 +14,10 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
 
 
 ## 🌐 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/🧑‍💻-Portfolio-blue?style=for-the-badge)](https://www.aashishneupane.com.np/) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashis-neupane-1a8050327/)
-
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Aashis_19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.aashishneupane.com.np)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashis-neupane-1a8050327/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aashis_19)
 
 
 
