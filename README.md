@@ -18,7 +18,7 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
   <a href="https://x.com/Aashis_19" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-   <p align="center">
+   <p >
   Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
 </p>
 </p>
