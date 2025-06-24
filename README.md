@@ -6,25 +6,6 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
 
 ---
 
-## 🌐 Let's Connect!
-
-<p align="left">
-  <a href="https://www.aashishneupane.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aashis-neupane-1a8050327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Aashis_19" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-   <p >
-  Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
-</p>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -56,6 +37,25 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="left">
+  <a href="https://www.aashishneupane.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashis-neupane-1a8050327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Aashis_19" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+   <p >
+  Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
+</p>
 </p>
 
 ---
