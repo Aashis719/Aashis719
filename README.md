@@ -49,12 +49,12 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
   </a>
  <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/aashis-neupane-1a8050327/" target="_blank">
-  <img height="32" width="32" src="https://camo.githubusercontent.com/66e47f06be27e0913e5d0d6e6d42a23d10102dbb297861b24bd70303f13cc70d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3031373745353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
 </a>
 
 <!-- X (Twitter) -->
 <a href="https://x.com/Aashis_19" target="_blank">
-  <img height="32" width="32" src="https://camo.githubusercontent.com/25a25f7c99b26fe3627d0878d1df9d44a89105ed8b378030b9946f2540c681bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3138414246463f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="X">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter / X">
 </a>
    <p >
   Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
