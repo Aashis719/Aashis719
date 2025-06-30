@@ -52,9 +52,12 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
 </a>
 
- <a href="https://x.com/Aashis_19" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>"
+  <a href="https://x.com/Aashis_19" target="_blank">
+  <img 
+  height="32" width="32"
+  style="background-color: white; padding:4px; border-radius: 5px; "
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" />
+</a>
    <p >
   Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
 </p>
