@@ -61,7 +61,7 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
    <p >
   Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a>
 </p>
-</p>
+</p> 
 
 ---
 <p><strong>⚡ Let's build amazing things together! 🚀</strong></p>
