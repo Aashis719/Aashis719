@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Aashish
 
-🚀 **Frontend Developer | Learning Full-Stack**
+🚀 **Frontend Developer | Learning Full-Stack** 
 
 Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Currently diving into full-stack development to build even more powerful web apps!
 
