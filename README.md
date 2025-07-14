@@ -39,7 +39,7 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
  
----
+--- 
  
 ## 🌐 Let's Connect!
 
