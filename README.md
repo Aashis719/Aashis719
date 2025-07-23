@@ -6,7 +6,7 @@ Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Curren
 
 ---
   
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
  
 ### 💻 Frontend 
 
