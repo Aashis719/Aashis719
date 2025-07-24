@@ -1,8 +1,10 @@
 # Hey there! 👋 I'm Aashish 
+<p align="center">
+  <img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Mario Vibe Coder" width="80%" />
+</p>
 
-🚀 **Frontend Developer | Learning Full-Stack** 
-
-Loves to craft sleek, modern UIs with **React.js, Next.js & TypeScript**. Currently diving into full-stack development to build even more powerful web apps!
+Crafting smooth, fast, and functional web apps —  
+driven by design, powered by logic.
 
 ---
   
