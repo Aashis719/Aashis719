@@ -1,10 +1,13 @@
 # Hey there! 👋 I'm Aashish 
 <p align="center">
-  <img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Mario Vibe Coder" width="80%" />
+  <img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Mario Vibe Coder" width="100%" />
 </p>
 
-Crafting smooth, fast, and functional web apps —  
-driven by design, powered by logic.
+<p align="center">
+   *Crafting smooth, fast, and functional web apps —*  
+  **driven by design, powered by logic.**
+</p>
+
 
 ---
   
