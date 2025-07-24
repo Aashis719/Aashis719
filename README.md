@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-   *Crafting smooth, fast, and functional web apps —*  
-  **driven by design, powered by logic.**
+   Crafting smooth, fast, and functional web apps — 
+</p>
+<p align="center">
+  driven by design, powered by logic.
 </p>
 
 
