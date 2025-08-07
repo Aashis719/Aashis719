@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Crafting smooth, fast, and functional web apps —
+  Crafting smooth, fast, and functional web apps — 
 </p>
 <p align="center">
   driven by design, powered by logic.
