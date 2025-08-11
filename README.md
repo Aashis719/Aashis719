@@ -43,7 +43,7 @@
   <a href="https://www.aashishneupane.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aashis-neupane-1a8050327/" target="_blank">
+  <a href="https://www.linkedin.com/in/aashish-neupane-1a8050327/" target="_blank">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
   <a href="https://x.com/Aashis_19" target="_blank">
