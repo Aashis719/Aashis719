@@ -9,7 +9,9 @@
   driven by design, powered by logic. 
 </p>
 
----
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" alt="animated line" width="100%" />
+</p>
 
 ## 💻 Tech Stack
 
