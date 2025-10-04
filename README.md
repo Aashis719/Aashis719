@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Mario Vibe Coder" width="100%" />
-</p>
+</p> 
 
 <p align="center">
   Crafting smooth, fast, and functional web apps — 
