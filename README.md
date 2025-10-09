@@ -4,7 +4,7 @@
 
 <p align="center">
   Crafting smooth, fast, and functional web apps — 
-</p> 
+</p>  
 <p align="center">    
   driven by design, powered by logic.   
 </p> 
