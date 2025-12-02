@@ -6,7 +6,7 @@
   Crafting smooth, fast, and functional web apps —  
 </p>     
 <p align="center">     
-  driven by design, powered by logic.     
+  driven by design, powered by logic.      
 </p> 
   
 <p align="center">
