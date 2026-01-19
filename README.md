@@ -9,7 +9,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" alt="animated line" width="100%" height="3" />
 </p>
 
-### About Me
+## About Me
+
 <p> 
 Full-stack developer building modern web applications. 
 I work mainly with React, Next.js, and TypeScript to create fast, polished products with solid foundations. 
