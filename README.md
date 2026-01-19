@@ -1,17 +1,22 @@
-<p align="center"> 
-  <img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Mario Vibe Coder" width="100%" />
-</p> 
- 
+<div >
+
+<img src="https://github.com/Aashis719/Aashis719/blob/main/mario-vibe-coder.gif?raw=true" alt="Header" width="100%" />
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+fast%2C+functional+web+apps" alt="Typing SVG" />
+</div>
 <p align="center">
-  Crafting smooth, fast, and functional web apps —  
-</p>      
-<p align="center">      
-  driven by design, powered by logic.       
-</p> 
-  
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" alt="animated line" width="100%" height="4" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" alt="animated line" width="100%" height="3" />
 </p>
+
+### About Me
+<p> 
+Full-stack developer building modern web applications. 
+I work mainly with React, Next.js, and TypeScript to create fast, polished products with solid foundations. 
+Currently working on AI-powered tools and e-commerce solutions.
+</p>
+
+---
 
 ## 💻 Tech Stack  
 
@@ -39,22 +44,19 @@
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect
 
-<p align="left">
-  <a href="https://www.aashishneupane.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aashish-neupane-1a8050327/" target="_blank">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aashishneupane.com.np)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishnep10@gmail.com)
+<a href="https://www.linkedin.com/in/aashish-neupane-1a8050327/" target="_blank">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
   <a href="https://x.com/Aashis_19" target="_blank">
     <img height="32" width="32" alt="X logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" />
   </a>
-</p>
-
-<p>Email me: <a href="mailto:aashishnep10@gmail.com">aashishnep10@gmail.com</a></p>
 
 ---
 
-<p><strong>⚡ Let's build amazing things together! 🚀</strong></p>
+<p><strong>⚡ Let's build amazing things together! </strong></p>
+
+</div>
