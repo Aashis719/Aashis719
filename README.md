@@ -50,11 +50,12 @@ Currently working on AI-powered tools and e-commerce solutions.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aashishneupane.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishnep10@gmail.com)
 <a href="https://www.linkedin.com/in/aashish-neupane-1a8050327/" target="_blank">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Aashis_19" target="_blank">
-    <img height="32" width="32" alt="X logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" />
-  </a>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+</a>
+
+<a href="https://x.com/Aashis_19" target="_blank">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X (Twitter)">
+</a>
 
 ---
 
