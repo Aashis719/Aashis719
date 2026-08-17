@@ -12,7 +12,7 @@
 ## About Me
 
 <p> 
-Full-stack developer building modern web applications. 
+Full-stack developer building modern web applications.  
 I work mainly with React, Next.js, and TypeScript to create fast, polished products with solid foundations. 
 Currently working on AI-powered tools and e-commerce solutions.
 </p>
